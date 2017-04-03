@@ -2,15 +2,17 @@
 Hi Everyone, 
 Welcome my witness info page. I am currently running witnesses on both Bitshares and Muse chains.
 
-Hosting: Amazon Web Services  
-Price Feed Script: Xeroc's  
-Feed Update Frequency: 10 mins
+Hosting: Scaleway
+Price Feed Script: Alt's
+BTS Seed node: 51.15.61.160:1776
+Witness Experience: 
+Ran Payroll delegate for chronos in original bitshares chain.
+Participated several of the public graphene test nets.
 
-BTS Seed node: 52.20.134.30:39705
+Currently run:
+delegate-lafona :steem
+delegate-1.lafona: muse
 
-Witness Experience:  
-Ran Payroll delegate for chronos in original bitshares chain.  
-Participated several of the public graphene test nets.  
 Bitsharestalk ID: lafona
 
 More Info to come...
